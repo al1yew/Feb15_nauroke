@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_na_uroke", "Task_na_uroke.csproj", "{ABF7340D-0C39-4FA4-B6B2-67FD2BABFEC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF7340D-0C39-4FA4-B6B2-67FD2BABFEC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF7340D-0C39-4FA4-B6B2-67FD2BABFEC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF7340D-0C39-4FA4-B6B2-67FD2BABFEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF7340D-0C39-4FA4-B6B2-67FD2BABFEC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {001212A2-24C2-4DCE-87E3-5581811ACCA7}
+	EndGlobalSection
+EndGlobal

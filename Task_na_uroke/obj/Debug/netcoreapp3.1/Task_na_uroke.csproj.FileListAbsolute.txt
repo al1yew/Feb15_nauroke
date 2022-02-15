@@ -1,0 +1,5 @@
+C:\Users\vasifja\Desktop\Task_na_uroke\obj\Debug\netcoreapp3.1\Task_na_uroke.csproj.AssemblyReference.cache
+C:\Users\vasifja\Desktop\Task_na_uroke\obj\Debug\netcoreapp3.1\Task_na_uroke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasifja\Desktop\Task_na_uroke\obj\Debug\netcoreapp3.1\Task_na_uroke.AssemblyInfoInputs.cache
+C:\Users\vasifja\Desktop\Task_na_uroke\obj\Debug\netcoreapp3.1\Task_na_uroke.AssemblyInfo.cs
+C:\Users\vasifja\Desktop\Task_na_uroke\obj\Debug\netcoreapp3.1\Task_na_uroke.csproj.CoreCompileInputs.cache
